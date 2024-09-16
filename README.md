@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @LOUDO56
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning HTML, CSS and JS
-<!--- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... --->
+## Introduction
 
-<!---
-LOUDO56/LOUDO56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm LOUDO56, a passionate 19 years old who loves web developpment. Since 2022, I've been learning web development and I am still learning it.
+Since 2022, I'm learning:
+- HTML, CSS, JS
+- PHP
+- SQL
+
+And been using those libraries:
+- React
+- Node.JS
+
+And recently those Frameworks:
+- NextJS
+- Symfony
+
+Other languages I also know:
+- Python
+- C#
+- Java
+
+
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
