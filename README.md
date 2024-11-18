@@ -8,6 +8,7 @@ Since 2022, I'm learning:
 
 And been using those libraries:
 - React
+- Vue
 - Node.JS
 
 And recently those Frameworks:
