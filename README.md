@@ -11,11 +11,11 @@ And been using those libraries:
 - Vue
 - Node.JS
 
-And recently those Frameworks:
+And those Frameworks:
 - NextJS
 - Symfony
 
-Other languages I also know:
+Other languages I also know and learn:
 - Python
 - C#
 - Java
