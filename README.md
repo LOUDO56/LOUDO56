@@ -14,6 +14,7 @@ And been using those libraries:
 And those Frameworks:
 - NextJS
 - Symfony
+- Spring Boot
 
 Other languages I also know and learn:
 - Python
