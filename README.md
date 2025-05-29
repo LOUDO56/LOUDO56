@@ -1,6 +1,6 @@
 ## Introduction
 
-Hi, I'm LOUDO56, a passionate 19 years old who loves web developpment. Since 2022, I've been learning web development and I am still learning it.
+Hi, I'm LOUDO56, a passionate 20 years old who loves web developpment. Since 2022, I've been learning web development and I am still learning it.
 Since 2022, I'm learning:
 - HTML, CSS, JS
 - PHP
